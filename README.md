@@ -182,7 +182,7 @@ Tokyo
 
 ## 👨‍💻 Author
 
-**Student Name:** Himanshu Chaudhary
+**Student Name:** Himalaya Singh
 **Course:** Web Development II
 **Assignment:** Async Weather Tracker Lab
 
